@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Backend**
 
-- 📫 How to reach me **souranhy3072@gmail.com**
+- 📫 How to reach me **sourabhy3072@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😅**
 
